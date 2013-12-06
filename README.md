@@ -1,0 +1,1 @@
+Made sample application to learn and implement static pages :D
